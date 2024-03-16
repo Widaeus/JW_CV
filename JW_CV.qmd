@@ -1,0 +1,92 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Jacob Widaeus | CV
+date: last-modified
+phone: 070 - 755 25 14
+address: "August Wahlströms väg 11, Danderyd"
+email: Jacob.Widaeus@gmail.com
+fontsize: 11pt
+orcid: 0000-0002-3148-2829
+github: github.com/Widaeus
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  peer: publikationer.json
+validate-yaml: false
+csl: ieee.csl
+---
+
+# Arbetslivserfarenhet
+
+*Danderyds sjukhus AB*
+
+AT-läkare \hfill Maj 2023 - Dec. 2024
+
+Allmäntjänstgöring på Danderyds Sjukhus inkl vårdcentralstjänstgöring på Husläkarna i Österåker
+
+\
+Underläkare - Hjärtkliniken \hfill Juni 2022 - Maj 2023
+
+Arbete på vårdavdelning, akutmottagning inkl jourverksamhet samt dagvård och inskrivningsmottagning för angiografi och pacemakeroperation
+
+\
+Underläkare - Neurologkliniken \hfill Juni 2021 - Maj 2022
+
+Sommarvikariat 2021 och löpande timvikariat under HT-21 och VT -22
+
+\
+Undersköterska \hfill Aug. 2016 - Maj 2021
+
+* Intensivvårdsavdelningen IVA
+* Hjärtintensivvårdsavdelning HIA
+* Avd 75 IMA
+* Avd 77 AVA
+* Avd 74 Lungmedicin
+* MandoMeter AB - Slutenvårdsklinik för ätstörningssjukdom
+* Aleris Omsorg AB - Äldre- och demensboende
+
+# Utbildning
+
+*Karolinska Institutet*, Läkarexamen \hfill 2022
+
+Examensarbete: High risk serological profile for autoimmunity in Antiphopspholipid syndrome - A retrospective single-centre cohort study, 2014-2020
+
+\
+*Sophiahemmet Högskola*, Sjuksköterskeprogrammet \hfill Jan. 2016 - Jan. 2017
+
+Kurser i omvårdnadsvetenskap och basal fysiologi
+
+\newpage
+
+# Pedagogiska meriter
+
+Nominering för pedagogiskt pris
+
+* 19 Januari 2024
+* 13 Januari 2023
+
+\
+*Amanuens*
+
+Lärare i katastrofmedicinsk simulering \hfill 10 Jan -23
+
+\
+Trombos och Hemostas \hfill Okt. 2020 - Jan. 2021
+
+Kursamanuens för studentvald kurs på läkarprogrammet på Karolinska institutet för studenter termin 6
+
+\
+Studentsällskapet för Kirurgi och Anestesi \hfill Sep. 2019 - Sep. 2021
+
+Styrelseledamot och amanuens i praktiska övningar
+
+# Forskningsarbete
+
+::: {#refs-peer}
+:::
+
+# Referenser
+
+Lämnas på förfrågan.
