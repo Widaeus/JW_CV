@@ -1,5 +1,4 @@
 ---
-title: CV
 format:
   quarto-cv-pdf: default
 author: Jacob Widaeus | CV
@@ -9,7 +8,7 @@ address: "August Wahlströms väg 11, Danderyd"
 email: Jacob.Widaeus@gmail.com
 fontsize: 11pt
 orcid: 0000-0002-3148-2829
-github: github.com/Widaeus
+#github: Widaeus
 fontawesome: yes
 nocite: '@*'
 bibliography: 
@@ -17,6 +16,21 @@ bibliography:
 validate-yaml: false
 csl: ieee.csl
 ---
+# Utbildning
+
+*Karolinska Institutet*, Läkarexamen \hfill 2022
+
+Examensarbete: High risk serological profile for autoimmunity in Antiphopspholipid syndrome - A retrospective single-centre cohort study, 2014-2020
+
+\
+*Sophiahemmet Högskola*, Sjuksköterskeprogrammet \hfill Jan. 2016 - Jan. 2017
+
+Kurser i omvårdnadsvetenskap och basal fysiologi
+
+\
+*Danderyds Gymnasium*, Internationell Ekonomi \hfill Aug. 2011 - Juni 2014
+
+Med kompletterande naturvetenskapliga kurser via NTI-skolan Mars 2015 - Dec. 2016
 
 # Arbetslivserfarenhet
 
@@ -24,7 +38,7 @@ csl: ieee.csl
 
 AT-läkare \hfill Maj 2023 - Dec. 2024
 
-Allmäntjänstgöring på Danderyds Sjukhus inkl vårdcentralstjänstgöring på Husläkarna i Österåker
+Allmäntjänstgöring på Danderyds Sjukhus med vårdcentralstjänstgöring på Husläkarna i Österåker
 
 \
 Underläkare - Hjärtkliniken \hfill Juni 2022 - Maj 2023
@@ -47,17 +61,6 @@ Undersköterska \hfill Aug. 2016 - Maj 2021
 * MandoMeter AB - Slutenvårdsklinik för ätstörningssjukdom
 * Aleris Omsorg AB - Äldre- och demensboende
 
-# Utbildning
-
-*Karolinska Institutet*, Läkarexamen \hfill 2022
-
-Examensarbete: High risk serological profile for autoimmunity in Antiphopspholipid syndrome - A retrospective single-centre cohort study, 2014-2020
-
-\
-*Sophiahemmet Högskola*, Sjuksköterskeprogrammet \hfill Jan. 2016 - Jan. 2017
-
-Kurser i omvårdnadsvetenskap och basal fysiologi
-
 \newpage
 
 # Pedagogiska meriter
@@ -68,12 +71,10 @@ Nominering för pedagogiskt pris
 * 13 Januari 2023
 
 \
-*Amanuens*
-
 Lärare i katastrofmedicinsk simulering \hfill 10 Jan -23
 
 \
-Trombos och Hemostas \hfill Okt. 2020 - Jan. 2021
+Amanuens - Trombos och Hemostas \hfill Okt. 2020 - Jan. 2021
 
 Kursamanuens för studentvald kurs på läkarprogrammet på Karolinska institutet för studenter termin 6
 
