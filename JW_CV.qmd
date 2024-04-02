@@ -13,6 +13,7 @@ fontawesome: yes
 nocite: '@*'
 bibliography: 
   peer: publikationer.json
+  preprint: PREPRINT.json
 validate-yaml: false
 csl: ieee.csl
 ---
@@ -84,8 +85,14 @@ Studentsällskapet för Kirurgi och Anestesi på Karolinska Institutet \hfill Se
 Styrelseledamot och amanuens i praktiska övningar
 
 # Forskningsarbete
+## Publikationer
 
 ::: {#refs-peer}
+:::
+
+## Pre prints
+
+::: {#refs-preprint}
 :::
 
 # Referenser
