@@ -19,6 +19,11 @@ csl: ieee.csl
 ---
 # Utbildning
 
+*Karolinska Institutet*, Forksarutbildning \hfill Sep. 2024 - Juni 2029
+
+"Bedside assessment of microvascular dysfunction – method evaluation in clinical studies"
+
+\
 *Karolinska Institutet*, Läkarexamen \hfill 2022
 
 Examensarbete: High risk serological profile for autoimmunity in Antiphopspholipid syndrome - A retrospective single-centre cohort study, 2014-2020
